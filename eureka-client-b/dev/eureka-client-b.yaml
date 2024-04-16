@@ -4,8 +4,8 @@ server:
 spring:
   data:
     mongodb:
-      database: kata
+      database: admin
       host: localhost
-      port: 3306
+      port: 27017
       username: root
-      password: 05081968
+      password: root
